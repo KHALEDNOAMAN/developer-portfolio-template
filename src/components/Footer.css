@@ -1,0 +1,18 @@
+.footer {
+  text-align: center;
+  padding: 2rem;
+  border-top: 1px solid var(--border-color);
+  margin-top: 4rem;
+}
+
+.footer p {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.credit {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem !important;
+  margin-top: 0.5rem;
+  opacity: 0.6;
+}
